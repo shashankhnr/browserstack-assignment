@@ -1,0 +1,16 @@
+Title: Golpe a los abusos de Meta
+Author: El País
+Date: 21 NOV 2025 - 05:30 CET
+
+Title:Golpe a los abusos de Meta
+Author:El País
+Date:21 NOV 2025 - 05:30 CET
+
+Article Text:
+La prensa española se ha anotado una rotunda victoria ante Meta, el grupo dueño de Facebook, Instagram y WhatsApp. El juzgado de lo mercantil número 15 de Madrid ha sentenciado que la empresa infringió la ley de protección de datos para tener una ventaja competitiva en la venta de publicidad programática personalizada, tras la demanda presentada por 80 cabeceras de prensa españolas, entre ellas EL PAÍS, agrupadas en la Asociación de Medios de Información (AMI). Meta deberá pagar 542 millones de euros a estos medios, incluidos intereses.
+
+Se trata de una condena que ayuda a corregir el desequilibrio de fuerzas entre las plataformas de redes sociales y los medios de comunicación. El juez Teodoro Ladrón Roda asegura que Meta usó los datos de millones de usuarios “sobre una base legal que no permitía ese uso de datos, y que convierte en ilícito el tratamiento de datos efectuado por Meta”, lo que penalizaba a los medios de comunicación con los que compite por la publicidad online. La compañía estadounidense, cuya sede europea se encuentra en Dublín, utilizó de forma ilícita los datos de sus usuarios sin que hubieran dado el consentimiento expreso, lo que contraviene la ley e implica una competencia desleal por el mercado publicitario. Como denunciaron los medios, Meta pudo incrementar así su negocio de publicidad personalizada, segmentada y conductual “mucho más allá que sus competidores”.
+
+Existen más frentes abiertos para Meta por los medios de comunicación. Una demanda similar presentada por las asociaciones de televisiones y radios Uteca y AERC reclama a la empresa 160 millones de euros por el mismo motivo. En Francia, medio centenar de publicaciones abrió un pleito similar. Meta ha chocado también con Bruselas: la Comisión Europea multó en 2024 a Meta con casi 800 millones por abuso de posición dominante; el pasado abril impuso otra sanción de 200 millones por violar la ley de servicios digitales; y desde octubre tiene abierto un proceso por dificultar a los usuarios la denuncia de contenidos ilegales.
+
+La relación entre los gigantes de internet y los medios ha implicado tensiones en distintos terrenos, desde los cambios repentinos de los algoritmos al afán por relegar los contenidos periodísticos respecto a otros. En este caso, la utilización por grandes plataformas de los datos de sus usuarios sin su conocimiento ni consentimiento constituye una clara violación de la ley europea de protección de datos. Meta cuenta con unos 3.500 millones de usuarios, lo que equivale a un 40% de la población mundial e implica una gran responsabilidad. Su enorme influencia, valor bursátil y cercanía a la Casa Blanca no pueden implicar la impunidad. La sentencia que da la razón a la prensa española es solo un paso más en la respuesta que merecen las prácticas abusivas de los grandes tecnológicas.
