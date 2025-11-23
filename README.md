@@ -43,25 +43,25 @@ Assignment**, which includes:
 
 ##  Features Implemented
 
-### ✔ 1. Article Scraping
+###  1. Article Scraping
 
 Extracted title, body content, and images from 5 Spanish news articles.
 
-### ✔ 2. Image Downloading
+###  2. Image Downloading
 
 Saved article images into respective folders.
 
-### ✔ 3. Translation
+###  3. Translation
 
 Translated article content into English using automated translation
 logic.\
 Stored results in `translations.json`.
 
-### ✔ 4. Summary Generation
+###  4. Summary Generation
 
 Generated summaries of each article and stored in `summary.json`.
 
-### ✔ 5. BrowserStack Automation
+###  5. BrowserStack Automation
 
 Executed 5 automated Selenium tests on BrowserStack:
 
@@ -133,4 +133,5 @@ https://github.com/shashankhnr/browserstack-assignment
     instructions.\
 -   All tests pass successfully on BrowserStack.\
 -   The project is fully reproducible using the steps above.
+
 
