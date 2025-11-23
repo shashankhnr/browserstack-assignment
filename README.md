@@ -1,4 +1,4 @@
-# 📘 BrowserStack Automation Assignment
+#  BrowserStack Automation Assignment
 
 This project completes the **BrowserStack Automation Engineer
 Assignment**, which includes:
@@ -41,7 +41,7 @@ Assignment**, which includes:
 
 ------------------------------------------------------------------------
 
-## 🚀 Features Implemented
+##  Features Implemented
 
 ### ✔ 1. Article Scraping
 
@@ -75,31 +75,31 @@ All tests passed successfully.
 
 ------------------------------------------------------------------------
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
-### **1️⃣ Create virtual environment**
+### **1️ Create virtual environment**
 
     python -m venv venv
     source venv/bin/activate  (Mac/Linux)
     venv\Scripts\activate     (Windows)
 
-### **2️⃣ Install dependencies**
+### **2️ Install dependencies**
 
     pip install -r src/requirements.txt
 
-### **3️⃣ Run scraper**
+### **3️ Run scraper**
 
     python src/scraper.py
 
-### **4️⃣ Run translation**
+### **4️ Run translation**
 
     python src/translate.py
 
-### **5️⃣ Run analysis**
+### **5️ Run analysis**
 
     python src/analyze.py
 
-### **6️⃣ Run BrowserStack tests**
+### **6️ Run BrowserStack tests**
 
 Set your credentials:
 
@@ -112,24 +112,25 @@ Then run:
 
 ------------------------------------------------------------------------
 
-## 🌐 BrowserStack Build (Public URL)
+## BrowserStack Build (Public URL)
 
 🔗 **BrowserStack Build:**\
 https://automation.browserstack.com/projects/Default+Project/builds/Untitled+Build+Run/1?tab=tests&testListView=spec&public_token=3a08135d875eef5083f39e09426b20ef5b0f227e80bc76a7cd40fb720a61fed9
 
 ------------------------------------------------------------------------
 
-## 📦 GitHub Repository
+##  GitHub Repository
 
 🔗 **Repository URL:**\
 https://github.com/shashankhnr/browserstack-assignment
 
 ------------------------------------------------------------------------
 
-## 📝 Notes
+##  Notes
 
 -   `venv` folder is intentionally not committed.\
 -   Output files are saved inside `/output/` per assignment
     instructions.\
 -   All tests pass successfully on BrowserStack.\
 -   The project is fully reproducible using the steps above.
+
